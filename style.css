@@ -70,7 +70,7 @@ body {
     background-color: #FFF3E3;
     position: absolute;
     right: 3%;
-    top: 30%;
+    top: 28%;
     padding: 3vw 4vw 2vw 2vw;
     border-radius: 10px;
 }
@@ -390,7 +390,7 @@ body {
 /* forth-container */
 
 .forth-container{
-    padding: 3vw 8vw;
+    padding: 6vw 8vw;
     background-color: #FCF8F3;
 }
 
@@ -435,8 +435,8 @@ body {
 }
 
 .forth-container .forth-contain .img{
-    height: 33vw;
-    width: 23vw;
+    height: 35vw;
+    width: 25vw;
     background-color: #898989;
     background-image: url("https://s3-alpha-sig.figma.com/img/f89a/66d9/4961c3801f4c07439f27b13468e5e545?Expires=1736726400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U65Oou3kbKq4JtOE95GOK2Md2guxCP7i4D4pcL8oBffY6KQY10b~SuNHhwGIDlUkSti9eDGNXJf84osk9erUjG82qi8LHxIinMdaQGgroLWP6otY5~zcd44EDWTn6ivJm35CXaxhgsy9Rm6gEcs6tVvtjfeofKU4cIXigCeI5IyOSX4itn~DdDGmkH7YulUzVRzGfoJuwN0uenn~wgOqbIi2zk~cLqMTgLxMk7cXIYD2jwxiJJOjpEGPrD9VCtjuFmLdL96Ft82XrO6QUjfAHBiQ1H4XTXtUB015CM-EQXhb8TA~Hipn1N-Uj2nZiiInWPCiKLCpgfeARkBZFrSxow__");
     background-size: cover;
